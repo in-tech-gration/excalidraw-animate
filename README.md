@@ -12,7 +12,8 @@ into animation.
 
 ## How to use it
 
-Visit: <https://dai-shi.github.io/excalidraw-animate>
+Visit: <https://in-tech-gration.github.io/excalidraw-animate/>
+_(Original: https://dai-shi.github.io/excalidraw-animate)_
 
 ### Using a local file
 
